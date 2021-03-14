@@ -1,4 +1,4 @@
-# Hello, I'm Adrián
+# Hello, I'm Adrián 👋
 
 In this document ([available also in ManagerReadme.com](https://managerreadme.com/readme/zetxek)), I intend to help you collaborate more efficiently with me, knowing what I expect from you, and the way I assume we will work together, to make it explicit.
 
@@ -6,7 +6,7 @@ As a rule of thumb, I demand to myself what I also expect from others. Please he
 
 I am a strong believer in agile as a way of working, meaning that I try to empower my teammates as much as I can, and be a "multiplier": if I can, I will teach you how to do something, because the more spread the knowledge is across the team, the stronger we are working together.
 
-# The motivation for this document
+# Why this document
 
 In the last years I've come to be aware of how many assumptions we all have when working with others, so I try to be as explicit as possible when communicating, and point out hidden assumptions that will go under the radar otherwise.
 
@@ -14,21 +14,25 @@ This exercise of laying out a "foundational" for the work relationship can be aw
 
 I intend to be transparent and predictable when interacting with others - so that's why I want to write down my "principles" in this kind of "Constitution of Adrián", documenting my basic assumptions and thoughts, and what I expect from others.
 
+# My leadership style
+
+First and foremost, I believe that to lead I need to earn your trust. For that, I have some pillars that I base my work relationships on: honesty, authenticity and curiosity. 
+
+You can always hold me accountable on these pillars - and help me the kind of leader I want to be: at your service, helping you succeed and achieve your objectives (which will make the team stronger).
+
 # My role
 
-Right now I am working as a "Tech Lead" - therefore I try to focus on raising the technical quality of the solutions we provide to the rest of the company, and to empower other departments to make use of the solutions we create for them.
+Right now I am working as a "Tech Lead" - therefore I try to focus on raising the technical quality of the solutions we provide to the rest of the company, and to empower other departments to make use of the solutions we create for them. On top of that I take some Engineering Manager responsbilities - managing the engineering team of 7 (backend, frontend and QA).
 
-My main priorities are: systems reliability and scalability, predictability, and having a good overview of what's going on in our systems and why that's happening.
+My main priorities are: systems reliability and scalability, predictability, and having a good overview of what's going on in our systems and why that's happening. It doesn't mean I do it all, especially with the growing team - so I try to teach and delegate as much as possible, to spread the knowledge.
 
-It doesn't mean that what we create needs to be perfect (nothing is, right?), but before the issues happen I need to know that they're possible, so I have already prepared a mitigation plan and can deal with them when they happen.
-
-I am spread across different projects, so I will not have the deepest knowledge on some of the details - but that's when I rely on you to be aligned with me, and have made me aware of potential issues that we might face in the future, so we can deal with them at the right time.
+I oversee different projects at Digital, so I will not have the deepest knowledge on some of the details - but that's when I rely on you to be aligned with me, and have made me aware of potential issues that we might face in the future, so we can deal with them at the right time.
 
 # What do I value most?
 
 I value and expect honesty and transparency from people. This means that if I ask you something and you do not have the answer, the best option is to tell me that you do not know and we will work on it together.
 
-I get quite annoyed if the assumptions that others take are not made explicit (in the form of a document, message, diagram...), especially if later they prove to be wrong. Example: you do not tell me why you come to conclusions that are based on flawed logic - so I am not aware that the "facts" were just based on falsy ideas.
+I get quite _annoyed_ if the assumptions that others take are not made explicit (in the form of a document, message, diagram...), especially if later they prove to be wrong. Example: you do not tell me why you come to conclusions that are based on flawed logic - so I am not aware that the "facts" were just based on falsy ideas.
 
 Related to this, I value clear communication: when something is done or decided, I expect that to be explicitly documented. This might be a slack message, a JIRA ticket comment, a code comment, or a pull request description and explanation.
 
@@ -40,9 +44,9 @@ And something that cannot be argued against is respect: we can have critical dis
 
 # My Expectations
 
-1.  I prefer to be approached by chat or a private message before getting me into a call I am not aware of - so I can prepare for that (both mentally as setting the context, and as to have the right facts).
+1. I prefer to be approached by chat or a private message before getting me into a call I am not aware of - so I can prepare for that (both mentally as setting the context, and as to have the right facts).
     
-2.  If you make a mistake, I expect transparency on why that happened, so I can help you in the best way I can. Do not hide facts you know from me.
+2. If you make a mistake, I expect transparency on why that happened, so I can help you in the best way I can. Do not hide facts you know from me.
     
 3.  If you invite me to a meeting, you will have prepared it by briefing me for it and explaining me the purpose of it.
     
@@ -57,11 +61,9 @@ And something that cannot be argued against is respect: we can have critical dis
 8.  As a product owner/project manager, I expect from you:
     
 
-1.  a high level vision of the priorities and how they are important for the business of the company
-    
-2.  thinking together with the developers about how to split tickets and prepare a MVP as soon as possible, instead of bundling complex issues in endless epics or sprints
-    
-3.  detailed thinking on the issues you expect the team to solve: which corner cases must be contemplated? Which implications might have the changes on other systems?
+    1.  a high level vision of the priorities and how they are important for the business of the company
+    2.  thinking together with the developers about how to split tickets and prepare a MVP as soon as possible, instead of bundling complex issues in endless epics or sprints
+    3.  detailed thinking on the issues you expect the team to solve: which corner cases must be contemplated? Which implications might have the changes on other systems?
     
 
 10.  As a developer, I expect from you:
@@ -85,9 +87,11 @@ And something that cannot be argued against is respect: we can have critical dis
 
 # 1:1s
 
-I do not have recurrently 1:1s as my role is mostly involved with keeping the technical quality of the platform in constant improvement - but I will always be available to discuss technical implementation, or the feedback I give in pull requests.
+Our 1 on 1 meetings are mainly _for you_. I want to hear what's bothering you, what you are liking, and in general how much you are enjoying work. It's a scheduled opportunity to catch up and give you feedback on what I have been observing since the last meeting, or know about problems I can help you with. 
 
-My main interaction with developers is via pull requests: I value them very highly, and I expect you to take my feedback on them seriously, and have conversations about how to improve the code and solutions we provide.
+But it's a meeting _for you_, so we can make anything you want of it.
+
+By default they're scheduled every 2 weeks, and we can adjust them more or less frequently at your will (although I'd rather not wait longer than 2 weeks to have a chat with you).
 
 # Personality quirks
 
@@ -99,8 +103,6 @@ I like to have a relaxed working environment, where we can combine serious talks
 
 # Where to focus on your first 90 days?
 
-1.  I want you to understand what is the scope of the system you are working on, and how it interacts with others.
-    
+1.  I want you to understand what is the scope of the system you are working on, and how it interacts with others. 
 2.  You will have a proactive list of improvements on the system you work on.
-    
 3.  You have identified some flaws, and have raised your concerns about them, so we can improve them as a team.
