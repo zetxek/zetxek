@@ -14,9 +14,9 @@ Here are some ideas to get you started:
 -->
 
 
-- 🚲 I’m currently working at [VanMoof.com](https://www.vanmoof.com) as a Tech Lead
+- 🚲 I work at [VanMoof.com](https://www.vanmoof.com) as a Tech Lead
 - 🌱 I’m currently learning how to be a better team lead and manager, and tech-wise I'm very interested into the serverless stack
-- 💬 Ask me about team leadership, web development, e-commerce...
+- 💬 Ask me about 🧑‍💻 team leadership, 🕸 web development, 🛒 e-commerce, ☁️ migrating to the cloud ...
 - 📫 How to reach me: [@zetxek](https://twitter.com/zetxek), [online](https://www.adrianmoreno.info/)
 - 🙋‍♂️ Pronouns: he/him
 - ⚡ Fun fact: I'm left handed 🤚
