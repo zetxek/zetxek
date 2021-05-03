@@ -1,6 +1,6 @@
 # Hello, I'm Adrián 👋
 
-In this document ([available also in ManagerReadme.com](https://managerreadme.com/readme/zetxek)), I intend to help you collaborate more efficiently with me, knowing what I expect from you, and the way I assume we will work together, to make it explicit.
+In this document (available [in Github](https://github.com/zetxek) and [ManagerReadme.com](https://managerreadme.com/readme/zetxek)), I intend to help you collaborate more efficiently with me, knowing what I expect from you, and the way I assume we will work together, to make it explicit.
 
 As a rule of thumb, I demand to myself what I also expect from others. Please help me stick to these promises by keeping me accountable, and pointing out when you need some more support from me to work better - I will not only not take it badly, but I will appreciate it if you "help me help you".
 
