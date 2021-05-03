@@ -16,21 +16,22 @@ I intend to be transparent and predictable when interacting with others - so tha
 
 # My leadership style
 
-First and foremost, I believe that to lead I need to earn your trust. For that, I have some pillars that I base my work relationships on: honesty, authenticity and curiosity. 
+First and foremost, I believe that to lead I need to earn your trust. For that, I have some pillars that I base my work relationships on: **honesty, authenticity and curiosity**. 
 
 You can always hold me accountable on these pillars - and help me the kind of leader I want to be: at your service, helping you succeed and achieve your objectives (which will make the team stronger).
 
 # My role
 
-Right now I am working as a "Tech Lead" - therefore I try to focus on raising the technical quality of the solutions we provide to the rest of the company, and to empower other departments to make use of the solutions we create for them. On top of that I take some Engineering Manager responsbilities - managing the engineering team of 7 (backend, frontend and QA).
+Currently I work as Engineering Manager - and that involves a balancer between the people's management and being accountable for technical matters. I have joined very recently so my first priority is to have a good understanding on how the teams work with each other and collaborate, and see how I can be a good represenative of the Accounting team.
 
-My main priorities are: systems reliability and scalability, predictability, and having a good overview of what's going on in our systems and why that's happening. It doesn't mean I do it all, especially with the growing team - so I try to teach and delegate as much as possible, to spread the knowledge.
+From a technical point of view, my main priorities are: systems reliability and scalability, predictability, and having a good overview of what's going on in our systems and why that's happening.
 
-I oversee different projects at Digital, so I will not have the deepest knowledge on some of the details - but that's when I rely on you to be aligned with me, and have made me aware of potential issues that we might face in the future, so we can deal with them at the right time.
+On the people management side I focus on facilitating for the developers, making sure that it is clear why we work on what we work, and removing impediments. Being a developer myself too, I try to be the kind of manager I liked to have: empowering developers, giving plenty of freedom on the implementation, and supporting when hitting roadblocks (either by peer programming, looking for help our of the team, alternative solutions...).
+
 
 # What do I value most?
 
-I value and expect honesty and transparency from people. This means that if I ask you something and you do not have the answer, the best option is to tell me that you do not know and we will work on it together.
+I value and expect **honesty and transparency** from people. This means that if I ask you something and you do not have the answer, the best option is to tell me that you do not know and we will work on it together.
 
 I get quite _annoyed_ if the assumptions that others take are not made explicit (in the form of a document, message, diagram...), especially if later they prove to be wrong. Example: you do not tell me why you come to conclusions that are based on flawed logic - so I am not aware that the "facts" were just based on falsy ideas.
 
@@ -46,7 +47,7 @@ And something that cannot be argued against is respect: we can have critical dis
 
 1. I prefer to be approached by chat or a private message before getting me into a call I am not aware of - so I can prepare for that (both mentally as setting the context, and as to have the right facts).
     
-2. If you make a mistake, I expect transparency on why that happened, so I can help you in the best way I can. Do not hide facts you know from me.
+2. If you make a mistake, I expect transparency on why that happened, so I can help you in the best way I can. Do not hide facts you know from me - when all cards are on the table, I'm your ally.
     
 3.  If you invite me to a meeting, you will have prepared it by briefing me for it and explaining me the purpose of it.
     
@@ -91,7 +92,7 @@ Our 1 on 1 meetings are mainly _for you_. I want to hear what's bothering you, w
 
 But it's a meeting _for you_, so we can make anything you want of it.
 
-By default they're scheduled every 2 weeks, and we can adjust them more or less frequently at your will (although I'd rather not wait longer than 2 weeks to have a chat with you).
+By default they'll be scheduled every 2 weeks, and we will adjust them more or less frequently at your will (although I'd rather not wait longer than 2 weeks to have a chat with you).
 
 # Personality quirks
 
