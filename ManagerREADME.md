@@ -10,7 +10,7 @@ I am a strong believer in agile as a way of working, meaning that I try to empow
 
 In the last years I've come to be aware of how many assumptions we all have when working with others, so I try to be as explicit as possible when communicating, and point out hidden assumptions that will go under the radar otherwise.
 
-This exercise of laying out a "foundational" for the work relationship can be awkward at first - but it avoids a lot of misunderstandings and helps us collaborate more efficiently.
+This exercise of laying out a "foundational" for the work relationship can be awkward at first - but it avoids a lot of misunderstandings and helps us collaborate more efficiently. And this does not replace any face to face communication - it should just make it easier for you to understand me.
 
 I intend to be transparent and predictable when interacting with others - so that's why I want to write down my "principles" in this kind of "Constitution of Adrián", documenting my basic assumptions and thoughts, and what I expect from others.
 
@@ -26,7 +26,7 @@ Currently I work as Engineering Manager - and that involves a balancer between t
 
 From a technical point of view, my main priorities are: systems reliability and scalability, predictability, and having a good overview of what's going on in our systems and why that's happening.
 
-On the people management side I focus on facilitating for the developers, making sure that it is clear why we work on what we work, and removing impediments. Being a developer myself too, I try to be the kind of manager I liked to have: empowering developers, giving plenty of freedom on the implementation, and supporting when hitting roadblocks (either by peer programming, looking for help our of the team, alternative solutions...).
+On the people management side I focus on facilitating for the developers, making sure that it is clear why we work on what we work, and removing impediments. Being a developer myself too, I try to be the kind of manager I liked to have: empowering developers, giving plenty of freedom on the implementation, and supporting when hitting roadblocks (either by pair programming, looking for help our of the team, alternative solutions...).
 
 
 # What do I value most?
@@ -60,29 +60,22 @@ And something that cannot be argued against is respect: we can have critical dis
 7.  I expect you to be reachable via chat (ie: Slack) during working hours, and be able to respond a message where you are tagged in less than 1h. If you will not be available to answer during some working hours, share your agenda and availability so I can be aware of it.
     
 8.  As a product owner/project manager, I expect from you:
-    
 
     1.  a high level vision of the priorities and how they are important for the business of the company
     2.  thinking together with the developers about how to split tickets and prepare a MVP as soon as possible, instead of bundling complex issues in endless epics or sprints
     3.  detailed thinking on the issues you expect the team to solve: which corner cases must be contemplated? Which implications might have the changes on other systems?
     
 
-10.  As a developer, I expect from you:
+9.  As a developer, I expect from you:
     
-
-1.  take ownership of the issues they deal with: if you work on a ticket, I expect you raise problems before you get stuck (the complexity was higher than anticipated - so we can take a decision together as a team)
-    
-2.  follow the best practices of the platforms you are developing in. This information is available online (google "whatever best practices", where whatever might be any system we're working on), so I do not need to point to the obvious issues, and you prepare clean solutions when possible. And if it's not possible, you should be able to explain why.
-    
-3.  you report the issues you face, so the rest of the team are aware of the challenges you are trying to solve, and maybe offer you help.
-    
-4.  you to work in an independent code branch, so your changes can be traced and reviewed independently
-    
-5.  you open a Pull Request to the right branch, and document which  
+    1.  take ownership of the issues they deal with: if you work on a ticket, I expect you raise problems before you get stuck (the complexity was higher than anticipated - so we can take a decision together as a team)
+    2.  follow the best practices of the platforms you are developing in. This information is available online (google "whatever best practices", where whatever might be any system we're working on), so I do not need to point to the obvious issues, and you prepare clean solutions when possible. And if it's not possible, you should be able to explain why.
+    3.  you report the issues you face, so the rest of the team are aware of the challenges you are trying to solve, and maybe offer you help
+    4.  you to work in an independent code branch, so your changes can be traced and reviewed independently
+    5.  you open a Pull Request to the right branch, and document which  
     decisions you have taken in the implementation, and the kind of review  
     you are looking for
-    
-6.  once the code has been merged, I expect you to test the feature, and be  
+    6.  once the code has been merged, I expect you to check if the CI/CD pipeline has run, test the feature, and be  
     able to explain why it works or doesn't to a not-technical user
     
 
