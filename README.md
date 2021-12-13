@@ -14,8 +14,8 @@ Here are some ideas to get you started:
 -->
 
 
-- 🚲 I work at [SumUp.com](https://www.sumup.com) in Copenhagen as a Engineering Manager, in the Accounting squad
-- 🌱 I’m currently learning how to be a better team lead and manager, and tech-wise I'm very interested into the serverless stack
+- 🚲 I work at [SumUp.com](https://www.sumup.com) in Copenhagen as a Director of Engineering, for the Invoices & Business Health teams
+- 🌱 I’m currently interested on how to be a better team lead and manager, and tech-wise I'm very interested into the serverless stack
 - 💬 Ask me about 🧑‍💻 team leadership, 🕸 web development, 🛒 e-commerce, ☁️ migrating to the cloud ...
 - 📫 How to reach me: [@zetxek](https://twitter.com/zetxek), [online](https://www.adrianmoreno.info/)
 - 🙋‍♂️ Pronouns: he/him
