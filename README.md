@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 
-- 🚲 I work at [SumUp.com](https://www.sumup.com) in Copenhagen as a Director of Engineering, for the Invoices & Business Health teams
+- 🧾 I work at [SumUp.com](https://www.sumup.com) in Copenhagen as a Director of Engineering, for the Invoices tribe
 - 🌱 I’m currently interested on how to be a better team lead and manager, and tech-wise I'm very interested into the serverless stack
 - 💬 Ask me about 🧑‍💻 team leadership, 🕸 web development, 🛒 e-commerce, ☁️ migrating to the cloud ...
 - 📫 How to reach me: [@zetxek](https://twitter.com/zetxek), [online](https://www.adrianmoreno.info/)
