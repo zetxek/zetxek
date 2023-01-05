@@ -100,6 +100,7 @@ If you see any book that could fit in the list and is missing - let me know! I'm
 
 ## My reading list:
 
+- Engineering Management for the Rest of Us, by Sarah Drasner
 - Brave New Work, by Aaron Dignan
 - Drive, by Daniel H. Pink
 - The Rational Optimist, by Matt Ridley
