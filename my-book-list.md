@@ -55,6 +55,7 @@ If you see any book that could fit in the list and is missing - let me know! I'm
 - Spark: How to Lead Yourself and Others to Greater Success, by Angie Morgan
 - Clarity First: How Smart Leaders and Organizations Achieve Outstanding Performance, by Karen Martin
 - The Coaching Habit: Say Less, Ask More & Change the Way You Lead Forever, by Michael Bungay Stanier
+- The Art of Leadership: Small Things, Done Well, by Michael Lopp
 
 ## Workplace and culture
 
@@ -102,4 +103,6 @@ If you see any book that could fit in the list and is missing - let me know! I'm
 - Brave New Work, by Aaron Dignan
 - Drive, by Daniel H. Pink
 - The Rational Optimist, by Matt Ridley
-- 
+- An Elegant Puzzle: Systems of Engineering Management, by Will Larson
+- Staff Engineer: Leadership Beyond the Management Track, by Will Larson
+- The First 90 Days: Critical Success Strategies for New Leaders at All Levelsby Michael D. Watkins 
