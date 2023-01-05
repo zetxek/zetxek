@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 
 
 - 🧾 I work at [SumUp.com](https://www.sumup.com) in Copenhagen as a Director of Engineering, for the Invoices tribe ([more about the product 🧾](https://www.sumup.com/en-gb/invoices/), and [more about how we work and organize ourselves 🗺️](https://www.sumup.com/en-us/how-we-work/tribalization/))
-- 🌱 I’m currently interested on how to be a better team lead and manager, and tech-wise I'm very interested into the serverless stack
-- 💬 Ask me about 🧑‍💻 team leadership, 🕸 web development, 🛒 e-commerce, ☁️ migrating to the cloud ...
+- 🌱 I’m currently interested on how how to design an organization for high performance, while maximizing individual happines 🦄
+- 💬 Ask me about 🧑‍💻 team leadership, 🕸 web development, 🌎 working in multi-cultural environments, 🗺️ digital transformation...
 - 📫 How to reach me: [@zetxek](https://twitter.com/zetxek), [online](https://www.adrianmoreno.info/)
 - 🙋‍♂️ Pronouns: he/him
 - ⚡ Fun fact: I'm left handed 🤚
