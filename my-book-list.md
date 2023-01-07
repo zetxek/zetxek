@@ -98,7 +98,7 @@ If you see any book that could fit in the list and is missing - let me know! I'm
 - Endure: Mind, Body, and the Curiously Elastic Limits of Human Performance, by Alex Hutchinson
 - Pro Cycling on $10 a Day: From Fat Kid to Euro Pro, by Phil Gaimon
 
-## My reading list:
+## My reading list
 
 - Engineering Management for the Rest of Us, by Sarah Drasner
 - Brave New Work, by Aaron Dignan
