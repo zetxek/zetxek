@@ -106,4 +106,4 @@ If you see any book that could fit in the list and is missing - let me know! I'm
 - The Rational Optimist, by Matt Ridley
 - An Elegant Puzzle: Systems of Engineering Management, by Will Larson
 - Staff Engineer: Leadership Beyond the Management Track, by Will Larson
-- The First 90 Days: Critical Success Strategies for New Leaders at All Levelsby Michael D. Watkins 
+- The First 90 Days: Critical Success Strategies for New Leaders at All Levels, by Michael D. Watkins 
