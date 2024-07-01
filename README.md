@@ -21,4 +21,4 @@ Here are some ideas to get you started:
 - 🙋‍♂️ Pronouns: he/him
 - ⚡ Fun fact: I'm left handed 🤚
 
-📃 You can find more information about me _as a manager_ in [my Manager README](https://github.com/zetxek/zetxek/blob/main/ManagerREADME.md).
+📃 You can find more information about me [as a colleague/person](https://my.manualof.me/s/614a002810cba276bced416e4b7eae953257699cfb55057a8eeda) or especifically [_as a manager_ in my Manager README](https://github.com/zetxek/zetxek/blob/main/ManagerREADME.md).
